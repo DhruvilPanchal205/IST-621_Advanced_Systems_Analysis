@@ -10,7 +10,8 @@ This repository contains the coursework and project work for IST 621 - Advanced 
 - Prototyping: Creating prototypes to visualize and demonstrate the app's functionalities and design.
 - Scrum Boards: Utilizing Scrum boards for project management and task tracking.
 
-## Project Overview: TikTok App Development
+## Project Overview: TikTok App Development https://github.com/DhruvilPanchal205/IST-621_Advanced_Systems_Analysis/blob/e35616fe3f3c0da284574764cd9bdf809174eff7/Tik%20Tok%20Proposal.docx
+
 
 As part of the course project, I focused on developing and implementing a TikTok-like application. The project involved various stages:
 
