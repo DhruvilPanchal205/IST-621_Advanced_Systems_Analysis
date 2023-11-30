@@ -11,7 +11,7 @@ This repository contains the coursework and project work for IST 621 - Advanced 
 - Scrum Boards: Utilizing Scrum boards for project management and task tracking.
 
 ## Project Overview: TikTok App Development
-['Tik-tok App'](https://github.com/DhruvilPanchal205/IST-621_Advanced_Systems_Analysis/blob/e35616fe3f3c0da284574764cd9bdf809174eff7/Tik%20Tok%20Proposal.docx)
+>>[Tik-tok App](https://github.com/DhruvilPanchal205/IST-621_Advanced_Systems_Analysis/blob/e35616fe3f3c0da284574764cd9bdf809174eff7/Tik%20Tok%20Proposal.docx)
 
 As part of the course project, I focused on developing and implementing a TikTok-like application. The project involved various stages:
 
